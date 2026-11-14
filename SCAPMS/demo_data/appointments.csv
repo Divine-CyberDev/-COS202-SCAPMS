@@ -1,0 +1,6 @@
+id,patientId,dateTime,reason,status
+A00001,P00001,2026-11-04 09:00,Sample consultation,Completed
+A00002,P00001,2026-11-03 14:30,Sample follow-up,Completed
+A00003,P00002,2026-11-04 10:30,Sample triage review,Pending
+A00004,P00003,2026-11-05 11:00,Sample progress review,Pending
+A00005,P00005,2026-11-04 13:15,Sample medication review,Cancelled

@@ -1,0 +1,6 @@
+id,name,age,contact,category,notes
+P00001,Jordan Example,28,+000-000-0001,General,Sample routine consultation
+P00002,Casey Example,36,+000-000-0002,Emergency,Sample triage note
+P00003,Robin Example,52,+000-000-0003,Follow-Up,Sample previous visit review
+P00004,Taylor Example,19,+000-000-0004,General,
+P00005,Alex Example,67,+000-000-0005,Follow-Up,Sample progress review
